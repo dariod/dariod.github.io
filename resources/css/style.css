@@ -1,7 +1,22 @@
+.center {
+  align-content: center;
+}
+
 .monospace {
   font-family: monospace;
 }
 
 .bigFont {
   font-size: 100px;
+}
+
+.codeologyContainer {
+  display: flex;
+  width: 100%;
+  height: auto;
+}
+
+.codeology {
+  width: 80vw;
+  height: 60vh;
 }
